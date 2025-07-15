@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Pavan Manikanta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack GenAI developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavanmanikanta98&label=Profile%20views&color=0e75b6&style=flat" alt="pavanmanikanta98" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanmanikanta98" alt="pavanmanikanta98" /></a> </p>
 
-- 🔭 I’m currently working on **Exchange system**
+- 🔭 I’m currently working on **Multiagent systems**
 
-- 👯 I’m looking to collaborate on **slack Ui**
+- 👯 I’m looking to collaborate on **LinkedIn**
 
 - 🤝 I’m looking for help with **Learing Generative Ai with Fine Tuning**
 
-- 💬 Ask me about **Nextjs, Reactjs, Golang, Nodejs, Expressjs,Primsa,Postgres,Mongodb,CI/CD,Docker,Fine tuning**
+- 💬 Ask me about **Python, transformers, GenAI applications, Nextjs, Reactjs, Golang, Nodejs, Expressjs,Primsa,Postgres,Mongodb,CI/CD,Docker,Fine tuning**
 
 - 📫 How to reach me **pavanmanikanta098@gmail.com**
 
