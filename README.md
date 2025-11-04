@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python, transformers, GenAI applications, Nextjs, Reactjs, Golang, Nodejs, Expressjs,Primsa,Postgres,Mongodb,CI/CD,Docker,Fine tuning**
 
-- 📫 How to reach me **pavanmanikanta098@gmail.com**
+- 📫 How to reach me **pavanmanikanta45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
