@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pavanmanikanta98" alt="pavanmanikanta98" /></a> </p>
 
-- 🔭 I’m currently working on **Multiagent systems**
+- 🔭 I’m currently working on **Voice Agent Systems**
 
 - 👯 I’m looking to collaborate on **LinkedIn**
 
