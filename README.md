@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Learing Generative Ai with Fine Tuning**
 
-- 💬 Ask me about **GenAI applications, Python, transformers, Nextjs, Reactjs, Golang, Nodejs, Expressjs, Primsa, Postgres,Mongodb ,CI/CD, Docker, Fine tuning**
+- 💬 Ask me about **GenAI applications, Python, transformers, Nextjs, Reactjs, Golang, Nodejs, Expressjs, Primsa, Postgres, Mongodb, CI/CD, Docker, Fine tuning**
 
 - 📫 How to reach me **pavanmanikanta45@gmail.com**
 
